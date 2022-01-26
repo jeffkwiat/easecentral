@@ -1,4 +1,6 @@
 Reddit Project: 
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/070d78da-541e-41e3-b835-83ef663d487a.svg?orgId=498499820349)](https://app.soluble.cloud/repos/details/github.com/jeffkwiat/easecentral?orgId=498499820349)  
 =================================
 
 reddit.com has an easy way to get their feeds via JSON.
